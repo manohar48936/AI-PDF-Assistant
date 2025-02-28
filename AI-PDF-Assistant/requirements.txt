@@ -1,0 +1,28 @@
+# bfore this you need to download python version == 3.9.4.
+
+
+# after installing python use this command in your terminal 
+
+#pip install -r requirements.txt
+
+# or install manually 
+
+streamlit==1.18.1
+PyPDF2==3.0.1
+requests==2.31.0
+langchain==0.0.184
+langchain-community==0.0.16
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+openai==0.27.6
+altair==4.2.2
+tiktoken==0.4.0
+deepseek==0.1.0  # Add this if there's an official DeepSeek package (otherwise, remove)
+
+# uncomment to use huggingface llms
+# huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
