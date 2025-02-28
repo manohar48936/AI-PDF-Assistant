@@ -12,6 +12,19 @@ An AI-powered chatbot that allows users to upload PDFs, process them, and ask qu
 
 ---
 
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage Screenshot](homepage.png)
+
+### 📂 Uploading PDFs
+![Uploading PDFs](upload_pdfs.png)
+
+
+
+
+
 ## 🛠️ Installation  
 
 ### 1⃣ Clone the Repository  
