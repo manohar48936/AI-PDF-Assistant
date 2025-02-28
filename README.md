@@ -16,10 +16,11 @@ An AI-powered chatbot that allows users to upload PDFs, process them, and ask qu
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](homepage.png)
+![Homepage Screenshot](images/homepage.png)
 
 ### 📂 Uploading PDFs
-![Uploading PDFs](upload_pdfs.png)
+![Uploading PDFs](images/upload_pdfs.png)
+
 
 
 
